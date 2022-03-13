@@ -5,6 +5,10 @@
       "url": ".DS_Store"
     },
     {
+      "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "url": ".nojekyll"
+    },
+    {
       "hash": "sha256-SO\/fuIIWUxoIu1OABrOpK5n\/AvzxJcg+0H3PT1eutAE=",
       "url": "css\/app.css"
     },
@@ -61,7 +65,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-aPJezYdgWAQzSzCVEP9QffO6usA0D6X7oWCeS0S6AyA=",
+      "hash": "sha256-xIoX2D9uDE2kwOV27N7oyZUBKzDrr1aiZEU9oSx57w0=",
       "url": "index.html"
     },
     {
@@ -285,5 +289,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "UplX2Rms"
+  "version": "2dcwUuGe"
 };
